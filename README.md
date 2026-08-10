@@ -1,5 +1,7 @@
 # dl-23f3001092-notebook-t22026
 
+## Checkout Live Project: https://huggingface.co/spaces/chndra/23f3001092
+
 Welcome to the Smart MCQ Solver Challenge!
 
 In this competition, participants are required to build AI based systems capable of solving complex multiple choice questions. Each question contains a prompt along with five possible answer options labeled A, B, C, D, and E. The objective is to predict the top three most likely correct answers in ranked order.
