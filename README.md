@@ -8,17 +8,6 @@
 
 * **Logistic Regression(notebook):** <a href="https://www.kaggle.com/code/chandra24208/scrach-lr">LR Notebook Link</a> <h3>Leaderboard score <bold>0.7510</bold></h3>
 
-In this competition, participants are required to build AI based systems capable of solving complex multiple choice questions. Each question contains a prompt along with five possible answer options labeled A, B, C, D, and E. The objective is to predict the top three most likely correct answers in ranked order.
-
-The competition is designed to provide hands on experience in developing, training, and evaluating machine learning models for multiple choice question answering. Participants are encouraged to experiment with different approaches, including transformer based models, fine tuning, retrieval based methods, ensemble techniques, and efficient inference pipelines.
-
-Rather than focusing on a single modeling strategy, the competition encourages participants to compare approaches, analyze their performance, and build solutions that achieve strong predictive accuracy on the provided benchmark dataset.
-
-Submissions will be evaluated using Mean Average Precision at 3 (MAP@3), where models receive higher scores when the correct answer appears earlier in their ranked predictions.
-
-Goal: The goal of this competition is to develop AI based models that accurately rank the most probable answers for multiple choice questions using the provided dataset. Participants are expected to apply appropriate machine learning techniques, evaluate different modeling strategies, and optimize their solutions to achieve the best performance under the given evaluation metric.
-
-
 <h1>Smart MCQ Solver Challenge</h1>
 
 <h2>About the Competition</h2>
@@ -30,6 +19,8 @@ The Smart MCQ Solver Challenge aims to develop intelligent AI and machine learni
 <p>
 The goal of this competition is to build models that can understand context, perform reasoning, and effectively rank answer choices. Participants are encouraged to explore transformer-based architectures, retrieval-augmented generation (RAG), fine-tuned language models, ensemble methods, and efficient inference techniques to maximize performance.
 </p>
+
+Submissions will be evaluated using Mean Average Precision at 3 **(MAP@3)**, where models receive higher scores when the correct answer appears earlier in their ranked predictions.
 
 <h2>Dataset Description</h2>
 
